@@ -7,7 +7,6 @@ All components including dataset loading, model definition, training, evaluation
 
 Project Structure
 Image-Segmentation-UNet/
-│
 ├── segmentation.ipynb   # Main notebook (dataset, model, training, evaluation)
 └── README.md   
 
