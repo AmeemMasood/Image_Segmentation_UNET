@@ -72,3 +72,10 @@ Input image
 Ground truth mask
 Predicted mask
 
+
+## ▶️ Open in Google Colab
+
+You can run this notebook directly in Google Colab:
+
+[Open in Colab](https://colab.research.google.com/drive/1MYZro2-03I4tFpnAGJ05LG8xnSzqRvPO?usp=sharing)
+
